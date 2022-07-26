@@ -29,6 +29,10 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
 - New programming frameworks and libraries .
 
 ## 💼 Technical Skills
+</br>
+
+#### Front End:
+
 
 <p align="center">
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
