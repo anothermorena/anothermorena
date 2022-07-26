@@ -29,18 +29,11 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
 - New programming frameworks and libraries .
 
 ## 💼 Technical Skills
-</br>
 
 #### Front End:
-
-
 <p align="center">
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="XML" height="25" src="images/xml-svgrepo-com.svg"></code>
   <code><img title="Bootstrap" height="25" src="images/bootstrap-4.svg"></code>
   <code><img title="Tailwind CSS" height="25" src="images/tailwind-css.svg"></code>
   <code><img title="Materialize CSS" height="25" src="images/materialize-css.png"></code>
@@ -54,51 +47,65 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
   <code><img title="WPO" height="25" src="images/web-page-load-time.svg"></code>
   <code><img title="PWA" height="25" src="images/pwa.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Figma" height="25" src="images/figma.svg"></code>
-  <code><img title="Scikitlearn" height="25" src="images/sckitlearn.png"></code>
-  <code><img title="numpy" height="25" src="images/numpy.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Latext" height="25" src="images/latext.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Sublimetext" height="25" src="images/sublime.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="SQL" height="25" src="images/sql.svg"></code>
-  <code><img title="Redis" height="25" src="images/redis.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Botman" height="25" src="images/botman.png"></code>
-  <code><img title="Rest API" height="25" src="images/rest-api.svg"></code>
-  <code><img title="Soap API" height="25" src="images/soap-api.png"></code>
-  <code><img title="FastAPI" height="25" src="images/fastapi-1.svg"></code>
-  <code><img title="Twilio" height="25" src="images/twilio.svg"></code>
-  <code><img title="Africa is Talking" height="25" src="images/africa-is-talking.png"></code>
-  <code><img title="Extract Transform Load" height="25" src="images/etl.jpg"></code>
-  <code><img title="Exploratory Data Analysis" height="25" src="images/eda.png"></code>
-  <code><img title="Data Visualization" height="25" src="images/data-visualization.png"></code>
-  <code><img title="Pandas" height="25" src="images/pandas.png"></code>
-  <code><img title="Matplotlib" height="25" src="images/matplotlib.png"></code>
-  <code><img title="Seaborn" height="25" src="images/seaborn.svg"></code>
-  <code><img title="Keras on a Tensorflow backend" height="25" src="images/keras-tensorflow.jpg"></code>
-  <code><img title="Machine Learning" height="25" src="images/machine-learning.svg"></code>
-  <code><img title="Deep Learning" height="25" src="images/deep-learning.png"></code>
-  <code><img title="Streamlit" height="25" src="images/streamlit.png"></code>
-  <code><img title="Dialogflow" height="25" src="images/dialogflow.svg"></code>
-  <code><img title="MLops" height="25" src="images/mlops.svg"></code>
-  <code><img title="UML" height="25" src="images/uml.jpg"></code>
-  <code><img title="A/B Testing" height="25" src="images/ab-testing.svg"></code>
-  <code><img title="Pytest" height="25" src="images/pytest.svg"></code>
-  <code><img title="Jest" height="25" src="images/jest.png"></code>
-  <code><img title="Cypress" height="25" src="images/cypress.png"></code>
-  <code><img title="DevOps" height="25" src="images/devops-2.svg"></code>
-  <code><img title="Cloud Technologies" height="25" src="images/cloud-technologies.png"></code>
-  <code><img title="Postman" height="25" src="images/postman.svg"></code>
-  <code><img title="System Design" height="25" src="images/system-design.png"></code>
-  <code><img title="Design Patterns" height="25" src="images/design-patterns.png"></code>
-  <code><img title="People Skills" height="25" src="images/people-skills.png"></code>
-  <code><img title="Presentation Skills" height="25" src="images/presentation-skills.jpg"></code>
-  <code><img title="Microsoft Office" height="25" src="images/microsoft-office.png"></code>
+</p>
 
+#### Back End:
+<p align="center">
+   <code><img title="C++" height="25" src="images/cpp.svg"></code>
+   <code><img title="Python" height="25" src="images/python-original.svg"></code>
+   <code><img title="XML" height="25" src="images/xml-svgrepo-com.svg"></code>
+   <code><img title="JSON" height="25" src="images/json.svg"></code>
+   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+   <code><img title="SQL" height="25" src="images/sql.svg"></code>
+   <code><img title="Redis" height="25" src="images/redis.svg"></code>
+   <code><img title="PHP" height="25" src="images/php.svg"></code>
+   <code><img title="Botman" height="25" src="images/botman.png"></code>
+   <code><img title="Rest API" height="25" src="images/rest-api.svg"></code>
+   <code><img title="Soap API" height="25" src="images/soap-api.png"></code>
+   <code><img title="FastAPI" height="25" src="images/fastapi-1.svg"></code>
+   <code><img title="Twilio" height="25" src="images/twilio.svg"></code>\
+   <code><img title="Africa is Talking" height="25" src="images/africa-is-talking.png"></code>
+</p>
+
+#### Artificial Intelligence:
+<p align="center">
+    <code><img title="Scikitlearn" height="25" src="images/sckitlearn.png"></code>
+    <code><img title="numpy" height="25" src="images/numpy.png"></code>
+    <code><img title="Extract Transform Load" height="25" src="images/etl.jpg"></code>
+    <code><img title="Exploratory Data Analysis" height="25" src="images/eda.png"></code>
+    <code><img title="Data Visualization" height="25" src="images/data-visualization.png"></code>
+    <code><img title="Pandas" height="25" src="images/pandas.png"></code>
+    <code><img title="Matplotlib" height="25" src="images/matplotlib.png"></code>
+    <code><img title="Seaborn" height="25" src="images/seaborn.svg"></code>
+    <code><img title="Keras on a Tensorflow backend" height="25" src="images/keras-tensorflow.jpg"></code>
+    <code><img title="Machine Learning" height="25" src="images/machine-learning.svg"></code>
+    <code><img title="Deep Learning" height="25" src="images/deep-learning.png"></code>
+    <code><img title="Streamlit" height="25" src="images/streamlit.png"></code>
+    <code><img title="Dialogflow" height="25" src="images/dialogflow.svg"></code>
+    <code><img title="MLops" height="25" src="images/mlops.svg"></code>
+</p>
+
+#### Other Tools & Skills:
+<p align="center"> 
+    <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+    <code><img title="Git" height="25" src="images/git-original.svg"></code>
+    <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+    <code><img title="Latext" height="25" src="images/latext.png"></code>
+    <code><img title="Sublimetext" height="25" src="images/sublime.png"></code>
+    <code><img title="GitHub" height="25" src="images/github.svg"></code>
+    <code><img title="UML" height="25" src="images/uml.jpg"></code>
+    <code><img title="A/B Testing" height="25" src="images/ab-testing.svg"></code>
+    <code><img title="Pytest" height="25" src="images/pytest.svg"></code>
+    <code><img title="Jest" height="25" src="images/jest.png"></code>
+    <code><img title="Cypress" height="25" src="images/cypress.png"></code>
+    <code><img title="DevOps" height="25" src="images/devops-2.svg"></code>
+    <code><img title="Cloud Technologies" height="25" src="images/cloud-technologies.png"></code>
+    <code><img title="Postman" height="25" src="images/postman.svg"></code>
+    <code><img title="System Design" height="25" src="images/system-design.png"></code>
+    <code><img title="Design Patterns" height="25" src="images/design-patterns.png"></code>
+    <code><img title="People Skills" height="25" src="images/people-skills.png"></code>
+    <code><img title="Presentation Skills" height="25" src="images/presentation-skills.jpg"></code>
+    <code><img title="Microsoft Office" height="25" src="images/microsoft-office.png"></code>
 </p>
 
 ## 📈 GitHub Stats
