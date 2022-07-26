@@ -113,9 +113,9 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
 
  <br/>
  <div align=center>
-       <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="franck225-coder's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=anothermorena&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=#00bfff&icon_color=#00bfff" height="192px"/>
+       <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Morena's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=anothermorena&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=#00bfff&icon_color=#00bfff" height="192px"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="franck225-coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anothermorena&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=#00bfff&icon_color=#00bfff&hide=Jupyter%20Notebook" height="192px"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Morena's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anothermorena&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=#00bfff&icon_color=#00bfff&hide=Jupyter%20Notebook" height="192px"/>
   </a>
   </div>
   <br>
