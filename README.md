@@ -129,11 +129,9 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
 
 ### 🤝 Get in touch:
 
-<div align=center>
-    <a href="https://www.linkedin.com/in/bwooo/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Otsogile Onalepelo (Morena) | LinkedIn" width="21px"/>
-    </a>
-</div>
+<a href="https://www.linkedin.com/in/bwooo/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Otsogile Onalepelo (Morena) | LinkedIn" width="21px"/>
+</a>
 
 <br>
 - 💼 For any collaboaration or freelance work, lets connect => [email](mailto:hireme@morena.dev)
