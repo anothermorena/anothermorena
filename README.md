@@ -36,6 +36,19 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="XML" height="25" src="images/xml-svgrepo-com.svg"></code>
+  <code><img title="Bootstrap" height="25" src="images/bootstrap-4.svg"></code>
+  <code><img title="Tailwind CSS" height="25" src="images/tailwind-css.svg"></code>
+  <code><img title="Materialize CSS" height="25" src="images/materialize-css-1.svg"></code>
+  <code><img title="Chakra UI" height="25" src="images/chakra-ui.png"></code>
+  <code><img title="jQuery" height="25" src="images/jquery-1.svg"></code>
+  <code><img title="Ajax" height="25" src="images/ajax.svg"></code>
+  <code><img title="React" height="25" src="images/react-js.svg"></code>
+  <code><img title="React Native" height="25" src="images/react-native.png"></code>
+  <code><img title="Expo" height="25" src="images/expo-svgrepo-com.svg"></code>
+  <code><img title="SEO" height="25" src="images/seo.svg"></code>
+  <code><img title="WPO" height="25" src="images/web-page-load-time.svg"></code>
+  <code><img title="PWA" height="25" src="images/pwa.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Figma" height="25" src="images/figma.svg"></code>
   <code><img title="Scikitlearn" height="25" src="images/sckitlearn.png"></code>
