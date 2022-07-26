@@ -12,13 +12,14 @@
 </h2> 
 
 I am an experienced self-taught software engineer, a qualified AI engineer and an allied health professional. A multipotentialite if you may. With the ability to quickly learn complex things on a need-to-know basis and apply them. My leisure time is spent researching and learning business & economic models, and how they can be optimized using technology.
+What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery and application.
 
 <hr>
 
 ## 🔭 I'm currently working on
-- Building a portfolio and documenting my projects
-- An NFT market place cross platform mobile application
-- An NFT recommender system to incoporate into the NFT mobile application i am currently building
+- Building a portfolio and documenting my projects.
+- An NFT market place cross platform mobile application.
+- An NFT recommender system to incoporate into the NFT market place mobile application i am currently building.
 - Maintaining some of my current projects
 
 ## 🌱 I'm currently learning
