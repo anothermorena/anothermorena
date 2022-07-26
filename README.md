@@ -39,7 +39,7 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
   <code><img title="XML" height="25" src="images/xml-svgrepo-com.svg"></code>
   <code><img title="Bootstrap" height="25" src="images/bootstrap-4.svg"></code>
   <code><img title="Tailwind CSS" height="25" src="images/tailwind-css.svg"></code>
-  <code><img title="Materialize CSS" height="25" src="images/materialize-css-1.svg"></code>
+  <code><img title="Materialize CSS" height="25" src="images/materialize-css.png"></code>
   <code><img title="Chakra UI" height="25" src="images/chakra-ui.png"></code>
   <code><img title="jQuery" height="25" src="images/jquery-1.svg"></code>
   <code><img title="Ajax" height="25" src="images/ajax.svg"></code>
