@@ -71,6 +71,18 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
   <code><img title="FastAPI" height="25" src="images/fastapi-1.svg"></code>
   <code><img title="Twilio" height="25" src="images/twilio.svg"></code>
   <code><img title="Africa is Talking" height="25" src="images/africa-is-talking.png"></code>
+  <code><img title="Extract Transform Load" height="25" src="images/etl.jpg"></code>
+  <code><img title="Exploratory Data Analysis" height="25" src="images/eda.png"></code>
+  <code><img title="Data Visualization" height="25" src="images/data-visualization.png"></code>
+  <code><img title="Pandas" height="25" src="images/pandas.png"></code>
+  <code><img title="Matplotlib" height="25" src="images/matplotlib.png"></code>
+  <code><img title="Seaborn" height="25" src="images/seaborn.svg"></code>
+  <code><img title="Keras on a Tensorflow backend" height="25" src="images/keras-tensorflow.jpg"></code>
+  <code><img title="Machine Learning" height="25" src="images/machine-learning.svg"></code>
+  <code><img title="Deep Learning" height="25" src="images/deep-learning.png"></code>
+  <code><img title="Streamlit" height="25" src="images/streamlit.png"></code>
+  <code><img title="Dialogflow" height="25" src="images/dialogflow.svg"></code>
+  <code><img title="MLops" height="25" src="images/mlops.svg"></code>
 
 </p>
 
