@@ -24,9 +24,9 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
 
 ## 🌱 I'm currently learning
 - New AI & DL methods and models.
-- Keep myself updated with data related techniques and methods.
+- Keeping myself updated with data related techniques and methods.
 - Advanced programming skills.
-- New programming frameworks and libraries .
+- New programming languages, frameworks and libraries .
 
 ## 💼 Technical Skills
 
@@ -111,8 +111,7 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
 ## 📈 GitHub Stats
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <br/>
- <p align=center>
+ <br/>
  <div align=center>
        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="franck225-coder's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=anothermorena&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=#00bfff&icon_color=#00bfff" height="192px"/>
   </a>
@@ -124,14 +123,18 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anothermorena&theme=react&border=61dafb&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
  </div>
-</p>
  
 <hr>
 
 
 ### 🤝 Get in touch:
 
-<a href="https://www.linkedin.com/in/bwooo/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Otsogile Onalepelo (Morena) | LinkedIn" width="21px"/></a>
+<div align=center>
+    <a href="https://www.linkedin.com/in/bwooo/" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Otsogile Onalepelo (Morena) | LinkedIn" width="21px"/>
+    </a>
+</div>
+
 <br>
 - 💼 For any collaboaration or freelance work, lets connect => [email](mailto:hireme@morena.dev)
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
