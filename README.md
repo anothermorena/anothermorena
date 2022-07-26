@@ -62,7 +62,16 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
   <code><img title="Sublimetext" height="25" src="images/sublime.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="SQL" height="25" src="images/sql.svg"></code>
+  <code><img title="Redis" height="25" src="images/redis.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Botman" height="25" src="images/botman.png"></code>
+  <code><img title="Rest API" height="25" src="images/rest-api.svg"></code>
+  <code><img title="Soap API" height="25" src="images/soap-api.png"></code>
+  <code><img title="Soap API" height="25" src="images/soap-api.png"></code>
+  <code><img title="FastAPI" height="25" src="images/fastapi-1.svg"></code>
+  <code><img title="Twilio" height="25" src="images/twilio.svg"></code>
+  <code><img title="Africa is Talking" height="25" src="images/africa-is-talking.png"></code>
 
 </p>
 
