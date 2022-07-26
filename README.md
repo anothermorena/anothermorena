@@ -52,9 +52,7 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Figma" height="25" src="images/figma.svg"></code>
   <code><img title="Scikitlearn" height="25" src="images/sckitlearn.png"></code>
-  <code><img title="Scipy" height="25" src="images/scipy.png"></code>
   <code><img title="numpy" height="25" src="images/numpy.png"></code>
-  <code><img title="Microsoft excel" height="25" src="images/microsoftexcel.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Latext" height="25" src="images/latext.png"></code>
@@ -83,6 +81,19 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
   <code><img title="Streamlit" height="25" src="images/streamlit.png"></code>
   <code><img title="Dialogflow" height="25" src="images/dialogflow.svg"></code>
   <code><img title="MLops" height="25" src="images/mlops.svg"></code>
+  <code><img title="UML" height="25" src="images/uml.jpg"></code>
+  <code><img title="A/B Testing" height="25" src="images/ab-testing.svg"></code>
+  <code><img title="Pytest" height="25" src="images/pytest.svg"></code>
+  <code><img title="Jest" height="25" src="images/jest.png"></code>
+  <code><img title="Cypress" height="25" src="images/cypress.png"></code>
+  <code><img title="DevOps" height="25" src="images/devops-2.svg"></code>
+  <code><img title="Cloud Technologies" height="25" src="images/cloud-technologies.png"></code>
+  <code><img title="Postman" height="25" src="images/postman.svg"></code>
+  <code><img title="System Design" height="25" src="images/system-design.png"></code>
+  <code><img title="Design Patterns" height="25" src="images/design-patterns.png"></code>
+  <code><img title="People Skills" height="25" src="images/people-skills.png"></code>
+  <code><img title="Presentation Skills" height="25" src="images/presentation-skills.jpg"></code>
+  <code><img title="Microsoft Office" height="25" src="images/microsoft-office.png"></code>
 
 </p>
 
