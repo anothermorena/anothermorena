@@ -140,5 +140,5 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
 
 
 <hr>
-⚡ Fun fact: Yay ! a different error message...Finally some progress !
+⚡ Fun fact: Yay ! A different error message...Finally some progress 😆!
 
