@@ -131,7 +131,7 @@ What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery an
 
 <a href="https://www.linkedin.com/in/bwooo/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Otsogile Onalepelo (Morena) | LinkedIn" width="21px"/></a>
 <br>
-- 💼 For any collaboaration or freelance work, lets connect => [email](mailto:hireme@morena.dev)
+- 💼 For any collaboaration or freelance work, lets connect => [email](mailto:onalepeloo@live.com)
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 <hr>
