@@ -11,8 +11,7 @@
     Biomedical Engineer || AI Engineer || Software Engineer
 </h2> 
 
-I am an experienced self-taught software engineer, a qualified AI engineer and an allied health professional. A multipotentialite if you may. With the ability to quickly learn complex things on a need-to-know basis and apply them. My leisure time is spent researching and learning business & economic models, and how they can be optimized using technology.
-What can i say? 🤷‍♂️ I am in love with learning, knowledge discovery and its practical application.
+I am an experienced self-taught software engineer, a qualified AI engineer, and an allied health professional. A multipotentialite, if you may. With the ability to quickly learn complex things on a need-to-know basis and apply them. My leisure time is spent researching and learning about business and economic models and how they can be optimized using technology. What can I say? 🤷‍♂️ I am in love with learning, knowledge discovery, and its practical application.
 
 <hr>
 
