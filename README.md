@@ -78,7 +78,6 @@ I am an experienced self-taught software engineer, a qualified AI engineer, and 
     <code><img title="Deep Learning" height="25" src="images/deep-learning.png"></code>
     <code><img title="Streamlit" height="25" src="images/streamlit.png"></code>
     <code><img title="Dialogflow" height="25" src="images/dialogflow.svg"></code>
-    <code><img title="MLops" height="25" src="images/mlops.svg"></code>
 </p>
 
 #### Other Tools & Skills:
@@ -94,7 +93,6 @@ I am an experienced self-taught software engineer, a qualified AI engineer, and 
     <code><img title="Pytest" height="25" src="images/pytest.svg"></code>
     <code><img title="Jest" height="25" src="images/jest.png"></code>
     <code><img title="Cypress" height="25" src="images/cypress.png"></code>
-    <code><img title="DevOps" height="25" src="images/devops-2.svg"></code>
     <code><img title="Cloud Technologies" height="25" src="images/cloud-technologies.png"></code>
     <code><img title="Postman" height="25" src="images/postman.svg"></code>
     <code><img title="System Design" height="25" src="images/system-design.png"></code>
