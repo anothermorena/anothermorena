@@ -3,7 +3,7 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 <h3 align="center">
-   I am <strong>Otsogile Onalepelo aka Morena</strong>
+   I am <strong>Otsogile Ogasitse Onalepelo aka Morena</strong>
   <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px">-->
 </h3>
 
